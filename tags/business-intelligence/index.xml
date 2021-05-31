@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business intelligence on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/business-intelligence/</link>
+    <description>Recent content in business intelligence on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alteryx</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/blog/alteryx/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/blog/alteryx/</guid>
+      <description>Alteryx Designer Workflow.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Alteryx</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/alteryx/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/alteryx/</guid>
+      <description>Alteryx Designer Workflow.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/blog/tableau_dashboard/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/blog/tableau_dashboard/</guid>
+      <description>Tableau Visuals &amp;amp; Dashboard.
+ Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/tableau_dashboard/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/tableau_dashboard/</guid>
+      <description>Tableau Visuals &amp;amp; Dashboard.
+ Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/blog/deploy_web_app_heroku/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/blog/deploy_web_app_heroku/</guid>
+      <description>Déployer une application web avec Heroku.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/deploy_web_app_heroku/</guid>
+      <description>Déployer une application web avec Heroku.
+ Bientôt !</description>
+    </item>
+    
+  </channel>
+</rss>

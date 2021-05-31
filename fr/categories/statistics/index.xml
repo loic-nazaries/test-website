@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/statistics/</link>
+    <description>Recent content in statistics on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pipeline de données</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/pipeline_donnees/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/pipeline_donnees/</guid>
+      <description>Thématique Pipeline d&amp;rsquo;intégration, de nettoyage et de validation de données</description>
+    </item>
+    
+    <item>
+      <title>Modélisation des GES</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_ges/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_ges/</guid>
+      <description>Thématique Modélisation des émissions des gaz à effet de serre (GES).</description>
+    </item>
+    
+    <item>
+      <title>Modélisation de KPI</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_kpi/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_kpi/</guid>
+      <description>Thématique Élaboration d&amp;rsquo;un indicateur clé de performance (KPI).
+ Technologies  Statistiques Indicateur de performance Tableau de bord   Description Un conglomérat d’agriculteurs australiens a financé une étude dans laquelle j’ai été chargé d’identifier les facteurs biologiques et environnementaux qui sont susceptible d’améliorer les rendements de blé en lien avec les pratiques d’agricultures communes en Australie (chaume brûlé, fertilisation, pâturage, labourage, etc.</description>
+    </item>
+    
+    <item>
+      <title>Modélisation géographique</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_geographique/</link>
+      <pubDate>Tue, 12 Nov 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_geographique/</guid>
+      <description>Thématique Modélisation géographique.
+ Technologies  Apprentissage automatique / Machine Learning (Random Forest, Canonical Variates Analysis) Géostatistiques (Kriging) Modélisation   Description J’ai complété une étude décrivant les étapes de modélisation nécessaire pour prédire la répartition géographique de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.</description>
+    </item>
+    
+  </channel>
+</rss>

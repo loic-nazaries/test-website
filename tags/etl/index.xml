@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETL on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/etl/</link>
+    <description>Recent content in ETL on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/tags/etl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alteryx</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/blog/alteryx/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/blog/alteryx/</guid>
+      <description>Alteryx Designer Workflow.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Alteryx</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/alteryx/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/alteryx/</guid>
+      <description>Alteryx Designer Workflow.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/blog/google_bi/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/blog/google_bi/</guid>
+      <description>Data Visualisation avec Google BigQuery &amp;amp; Google Data Studio.
+ Dans ce projet, le dashboard décrit le coût des budgets investis dans la production de films dans chaque pays.</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/google_bi/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/google_bi/</guid>
+      <description>Data Visualisation avec Google BigQuery &amp;amp; Google Data Studio.
+ Dans ce projet, le dashboard décrit le coût des budgets investis dans la production de films dans chaque pays.</description>
+    </item>
+    
+  </channel>
+</rss>

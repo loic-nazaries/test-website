@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualisation on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/tags/data-visualisation/</link>
+    <description>Recent content in data visualisation on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/fr/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Déploiement d&#39;une appli web avec Heroku</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/blog/deploy_web_app_heroku/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/blog/deploy_web_app_heroku/</guid>
+      <description>Déployer une application web avec Heroku.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/blog/google_bi/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/blog/google_bi/</guid>
+      <description>Data Visualisation avec Google BigQuery &amp;amp; Google Data Studio.
+ Dans ce projet, le dashboard décrit le coût des budgets investis dans la production de films dans chaque pays.</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/google_bi/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/google_bi/</guid>
+      <description>Data Visualisation avec Google BigQuery &amp;amp; Google Data Studio.
+ Dans ce projet, le dashboard décrit le coût des budgets investis dans la production de films dans chaque pays.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/blog/tableau_dashboard/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/blog/tableau_dashboard/</guid>
+      <description>Tableau Visuals &amp;amp; Dashboard.
+ Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_dashboard/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_dashboard/</guid>
+      <description>Tableau Visuals &amp;amp; Dashboard.
+ Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/deploy_web_app_heroku/</guid>
+      <description>Déployer une application web avec Heroku.
+ Bientôt !</description>
+    </item>
+    
+  </channel>
+</rss>

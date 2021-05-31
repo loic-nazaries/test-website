@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>repo on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/repo/</link>
+    <description>Recent content in repo on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/tags/repo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Repository with GitHub</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/blog/github_repo/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/blog/github_repo/</guid>
+      <description>Créer un dépôt de projet avec GitHub.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Project Repository with GitHub</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/github_repo/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/github_repo/</guid>
+      <description>Créer un dépôt de projet avec GitHub.
+ Bientôt !</description>
+    </item>
+    
+  </channel>
+</rss>

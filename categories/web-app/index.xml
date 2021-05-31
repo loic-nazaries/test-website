@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web app on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/categories/web-app/</link>
+    <description>Recent content in web app on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/categories/web-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/dashboard/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/dashboard/</guid>
+      <description>Thématique Deployment of a web application to create an interactive dashboard for data analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/</link>
+    <description>Recent content in Portfolio on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pipeline de données</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/pipeline_donnees/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/pipeline_donnees/</guid>
+      <description>Thématique Pipeline d&amp;rsquo;intégration, de nettoyage et de validation de données</description>
+    </item>
+    
+    <item>
+      <title>Tableau de bord</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_bord/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_bord/</guid>
+      <description>Thématique Déploiement d&amp;rsquo;une application web pour créer un dashboard interactif d&amp;rsquo;analyse de données.</description>
+    </item>
+    
+    <item>
+      <title>Modélisation de base de données</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_base_donnees/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_base_donnees/</guid>
+      <description>Thématique Modélisation d&amp;rsquo;une base de données.
+ Technologies  SQL PostgreSQL &amp;amp; pgAdmin4 | Oracle SQL*Plus UML   Description Un système de gestion de base de données relationnelle (SGBDR) a été construit pour le projet « EucFACE ».</description>
+    </item>
+    
+    <item>
+      <title>Modélisation des GES</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_ges/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_ges/</guid>
+      <description>Thématique Modélisation des émissions des gaz à effet de serre (GES).</description>
+    </item>
+    
+    <item>
+      <title>Alteryx</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/alteryx/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/alteryx/</guid>
+      <description>Alteryx Designer Workflow.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>EucFACE Site Presentation</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/eucface/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/eucface/</guid>
+      <description>Analysis of greenhouse gas (GHG) emissions under elevated atmospheric CO2 concentrations.</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/google_bi/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/google_bi/</guid>
+      <description>Data Visualisation avec Google BigQuery &amp;amp; Google Data Studio.
+ Dans ce projet, le dashboard décrit le coût des budgets investis dans la production de films dans chaque pays.</description>
+    </item>
+    
+    <item>
+      <title>Project Repository with GitHub</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/github_repo/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/github_repo/</guid>
+      <description>Créer un dépôt de projet avec GitHub.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Python Virtual Environment</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/python_virtual_environment/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/python_virtual_environment/</guid>
+      <description>Créer un environnement virtuel avec Python.
+ Dans tout projet data, il est important de pouvoir créer un environnement technique reproductible par une autre personne ou sur un autre ordinateur.</description>
+    </item>
+    
+    <item>
+      <title>Python Virtual Environment (Conda)</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/python_virtual_env_conda/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/python_virtual_env_conda/</guid>
+      <description>Créer un environnement virtuel avec Python et Conda.
+ Dans tout projet data, il est important de pouvoir créer un environnement technique reproductible par une autre personne ou sur un autre ordinateur.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_dashboard/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_dashboard/</guid>
+      <description>Tableau Visuals &amp;amp; Dashboard.
+ Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/deploy_web_app_heroku/</guid>
+      <description>Déployer une application web avec Heroku.
+ Bientôt !</description>
+    </item>
+    
+    <item>
+      <title>Modélisation de KPI</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_kpi/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_kpi/</guid>
+      <description>Thématique Élaboration d&amp;rsquo;un indicateur clé de performance (KPI).
+ Technologies  Statistiques Indicateur de performance Tableau de bord   Description Un conglomérat d’agriculteurs australiens a financé une étude dans laquelle j’ai été chargé d’identifier les facteurs biologiques et environnementaux qui sont susceptible d’améliorer les rendements de blé en lien avec les pratiques d’agricultures communes en Australie (chaume brûlé, fertilisation, pâturage, labourage, etc.</description>
+    </item>
+    
+    <item>
+      <title>Modélisation géographique</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_geographique/</link>
+      <pubDate>Tue, 12 Nov 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_geographique/</guid>
+      <description>Thématique Modélisation géographique.
+ Technologies  Apprentissage automatique / Machine Learning (Random Forest, Canonical Variates Analysis) Géostatistiques (Kriging) Modélisation   Description J’ai complété une étude décrivant les étapes de modélisation nécessaire pour prédire la répartition géographique de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.</description>
+    </item>
+    
+  </channel>
+</rss>

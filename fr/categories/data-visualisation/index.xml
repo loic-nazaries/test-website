@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualisation on Welcome to Loic&#39;s Data Science Portfolio</title>
+    <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/data-visualisation/</link>
+    <description>Recent content in data visualisation on Welcome to Loic&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tableau de bord</title>
+      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_bord/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_bord/</guid>
+      <description>Thématique Déploiement d&amp;rsquo;une application web pour créer un dashboard interactif d&amp;rsquo;analyse de données.</description>
+    </item>
+    
+  </channel>
+</rss>
