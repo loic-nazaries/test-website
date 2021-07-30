@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python development on Welcome to Loic&#39;s Data Science Portfolio</title>
-    <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/python-development/</link>
+    <link>https://loic-nazaries.github.io/test-website/fr/categories/python-development/</link>
     <description>Recent content in python development on Welcome to Loic&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/python-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/test-website/fr/categories/python-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pipeline de données</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/pipeline_donnees/</link>
+      <link>https://loic-nazaries.github.io/test-website/fr/portfolio/pipeline_donnees/</link>
       <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/pipeline_donnees/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/fr/portfolio/pipeline_donnees/</guid>
       <description>Thématique Pipeline d&amp;rsquo;intégration, de nettoyage et de validation de données</description>
     </item>
     
     <item>
       <title>Tableau de bord</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_bord/</link>
+      <link>https://loic-nazaries.github.io/test-website/fr/portfolio/tableau_bord/</link>
       <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/tableau_bord/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/fr/portfolio/tableau_bord/</guid>
       <description>Thématique Déploiement d&amp;rsquo;une application web pour créer un dashboard interactif d&amp;rsquo;analyse de données.</description>
     </item>
     

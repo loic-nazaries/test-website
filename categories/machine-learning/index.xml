@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on Welcome to Loic&#39;s Data Science Portfolio</title>
-    <link>https://loic-nazaries.github.io/loic-nazaries-website/categories/machine-learning/</link>
+    <link>https://loic-nazaries.github.io/test-website/categories/machine-learning/</link>
     <description>Recent content in machine learning on Welcome to Loic&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Sun, 24 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/test-website/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GHG Modelling</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/ghg_modelling/</link>
+      <link>https://loic-nazaries.github.io/test-website/portfolio/ghg_modelling/</link>
       <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/ghg_modelling/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/portfolio/ghg_modelling/</guid>
       <description>Theme Greenhouse gas emissions modelling.
  Technologies  time-series analysis (ARIMA) machine learning (multiple regression) statistics (correlation, mixed modelling)   Description Analyse des émissions de gaz à effet de serre dans des conditions de concentrations atmosphériques en CO2 élevées.</description>
     </item>
     
     <item>
       <title>Geographical Modelling</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/geographical_modelling/</link>
+      <link>https://loic-nazaries.github.io/test-website/portfolio/geographical_modelling/</link>
       <pubDate>Tue, 12 Nov 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/portfolio/geographical_modelling/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/portfolio/geographical_modelling/</guid>
       <description>Theme Geographical Modelling.
  Technologies  Machine Learning (Random Forest, Canonical Variates Analysis) Geostatistics (Kriging) Modelling   Description J’ai complété une étude décrivant les étapes de modélisation nécessaire pour prédire la répartition géographique de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.</description>
     </item>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>time-series analysis on Welcome to Loic&#39;s Data Science Portfolio</title>
-    <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/time-series-analysis/</link>
+    <link>https://loic-nazaries.github.io/test-website/fr/categories/time-series-analysis/</link>
     <description>Recent content in time-series analysis on Welcome to Loic&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Sun, 24 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/fr/categories/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/test-website/fr/categories/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modélisation des GES</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_ges/</link>
+      <link>https://loic-nazaries.github.io/test-website/fr/portfolio/modelisation_ges/</link>
       <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/fr/portfolio/modelisation_ges/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/fr/portfolio/modelisation_ges/</guid>
       <description>Thématique Modélisation des émissions des gaz à effet de serre (GES).</description>
     </item>
     

@@ -2,153 +2,153 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Welcome to Loic&#39;s Data Science Portfolio</title>
-    <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/</link>
+    <link>https://loic-nazaries.github.io/test-website/tags/</link>
     <description>Recent content in Tags on Welcome to Loic&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/loic-nazaries-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/test-website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>atmospheric CO2</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/atmospheric-co2/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/atmospheric-co2/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/atmospheric-co2/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/atmospheric-co2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>atmospheric enrichment</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/atmospheric-enrichment/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/atmospheric-enrichment/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/atmospheric-enrichment/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/atmospheric-enrichment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business intelligence</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/business-intelligence/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/business-intelligence/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/business-intelligence/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/business-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conda</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/conda/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/conda/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/conda/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/conda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dashboard</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/dashboard/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/dashboard/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/dashboard/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data visualisation</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/data-visualisation/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/data-visualisation/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/data-visualisation/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/data-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>database management</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/database-management/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/database-management/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/database-management/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/database-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ETL</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/etl/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/etl/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/etl/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/etl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EucFACE</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/eucface/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/eucface/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/eucface/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/eucface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/github/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/github/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/github/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>global change</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/global-change/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/global-change/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/global-change/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/global-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project monitoring</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/project-monitoring/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/project-monitoring/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/project-monitoring/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/project-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python development</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/python-development/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/python-development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/python-development/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/python-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>repo</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/repo/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/repo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/repo/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/repo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/sql/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/sql/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/sql/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>virtual environment</title>
-      <link>https://loic-nazaries.github.io/loic-nazaries-website/tags/virtual-environment/</link>
+      <link>https://loic-nazaries.github.io/test-website/tags/virtual-environment/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://loic-nazaries.github.io/loic-nazaries-website/tags/virtual-environment/</guid>
+      <guid>https://loic-nazaries.github.io/test-website/tags/virtual-environment/</guid>
       <description></description>
     </item>
     
